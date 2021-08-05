@@ -1,4 +1,10 @@
-
+body {
+	min-width: 985px;
+}
+#wrapper {
+	margin: 0 auto;
+	width: 1500px;
+}
 #logo {
 	width: 135px;
 	height: 120px;
